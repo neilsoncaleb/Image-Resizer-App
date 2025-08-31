@@ -2,7 +2,7 @@
 
 ---
 
-# 📘 Suggested `README.md`
+
 
 ````markdown
 # 🖼️ Image Resizer App
@@ -125,4 +125,5 @@ MIT License © 2025 [CJ Neilson](https://github.com/neilsoncaleb)
 
 Would you like me to also draft a **GitHub Release guide** (so you can upload your `.exe` there and make the “Download EXE” button work right away)?
 ```
+
 
