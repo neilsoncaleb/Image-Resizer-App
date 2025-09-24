@@ -1,0 +1,17 @@
+# Ignore build outputs
+build/
+dist/
+*.spec
+
+# Byte-compiled / cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# OS junk
+.DS_Store
+Thumbs.db
